@@ -13,6 +13,7 @@ public class AccessModifier {
 			
 	String addres = "Heritage Tower"; // default - classes in same packege can access
 
-	
+	//git test 
+	int + 25
 	}
 
